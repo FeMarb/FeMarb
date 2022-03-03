@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FeMarb
-- 👀 I’m interested in programjming, design and webdev
+- 👀 I’m interested in programming, design and webdev
 - 🌱 I’m currently learning python and js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me? Just send a hi!
